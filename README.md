@@ -1,20 +1,9 @@
 # JustCause Datasets
-
-**Work in Progress**
-
-This repository holds the data resources for the [JustCause] library. You don't need to install, will will be used
+This repository holds the data resources for the [JustCause] library. You don't need to install, it will be used
 automatically.
 
-Currently it includes the datasets:
-
-* IHDP 
-* IBM Acic
-
-
-### ToDos
-
-* Add explanations and references about the datasets above
-* Add more datasets
-
+For more information about the data sets, see the [Docs].
 
 [JustCause]: https://github.com/inovex/justcause
+[Docs]: https://justcause.readthedocs.io/en/latest/
+
